@@ -4,4 +4,3 @@ journalist
 About me
 Experience
 Education
-
