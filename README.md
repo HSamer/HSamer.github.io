@@ -3,4 +3,5 @@ Birgit Samer
 journalist
 About me
 Experience
-Educatiom
+Education
+
