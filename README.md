@@ -11,5 +11,5 @@
  
  Education
  
- Hobbies & Interests
+ Hobbies & Interests </body>
  </html>
