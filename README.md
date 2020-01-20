@@ -1,17 +1,12 @@
 # Birgit Samer
 
 - About me 
-
-  telefone number
-  
-  e-mail 
-  
+  telefone number  
+  e-mail   
   adress
   
 - Experience
-
-  xxxxxx
-  
+  xxxxxx  
   yyyyyy
   
 - Education
