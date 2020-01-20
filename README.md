@@ -1,7 +1,5 @@
 # Birgit Samer
 
-curriculum vitae
-
 - About me 
 
   telefone number
