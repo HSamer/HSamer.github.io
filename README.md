@@ -14,11 +14,10 @@
 - Education
 
   aaaaaaaaa
-  bbbbbbbbbb
+
 
 - Hobbies & Interests
 
   eeeeeeee  
-  fffffff 
-  ggggggg
-  
+ 
+ 
