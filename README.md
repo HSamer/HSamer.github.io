@@ -6,10 +6,10 @@
   e-mail   
   adress
   
-- Experience
+                                             - Experience
 
-  xxxxxxx  
-  yyyyyy
+                                               xxxxxxx  
+                                               yyyyyy
   
 - Education
 
