@@ -13,12 +13,12 @@
   
 - Education
 
-  aaaaaaaa
+  aaaaaaaaa
   bbbbbbbb
 
 - Hobbies & Interests
 
-  eeeeeee  
+  eeeeeeee  
   fffffff 
   ggggggg
   
