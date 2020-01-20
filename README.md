@@ -6,10 +6,10 @@
 <body> 
  
  About Me
- 
+<br> 
  Experience
- 
+<br> 
  Education
- 
+ <br>
  Hobbies & Interests </body>
  </html>
