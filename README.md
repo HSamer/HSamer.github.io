@@ -1,4 +1,4 @@
-# HSamer.github.io
+# Birgit Samer
 
 curriculum vitae
 
