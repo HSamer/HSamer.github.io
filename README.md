@@ -1,4 +1,5 @@
-# Birgit Samer
+# Birgit Samer                                 
+image: 'Fotos-Samer_Birgit_093R13*18-_1_.jpg'
 
 - About me 
   
