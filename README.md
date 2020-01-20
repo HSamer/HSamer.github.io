@@ -1,5 +1,5 @@
 # Birgit Samer 
-img 'https://at.linkedin.com/in/birgit-samer-b1223419a'
+img: 'https://at.linkedin.com/in/birgit-samer-b1223419a'
 
 - About me 
   
