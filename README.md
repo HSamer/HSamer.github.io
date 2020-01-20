@@ -7,20 +7,18 @@
   adress
   
 - Experience
+
   xxxxxx  
   yyyyyy
   
 - Education
 
   aaaaaaaa
-  
   bbbbbbbb
 
 - Hobbies & Interests
 
-  eeeeeee
-  
-  fffffff
-  
+  eeeeeee  
+  fffffff 
   ggggggg
   
