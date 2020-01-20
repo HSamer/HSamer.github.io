@@ -1,5 +1,7 @@
-# Birgit Samer                                 
-images/C:\Users\SAMER\Documents\BIRGIT\eigene FOTOS\Samer_Birgit-096R13x18-_1_.jpg
+# Birgit Samer 
+images
+
+images/\Users\SAMER\Documents\BIRGIT\eigene FOTOS\Samer_Birgit-096R13x18-_1_.jpg
 
 - About me 
   
