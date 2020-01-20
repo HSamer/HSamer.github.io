@@ -6,19 +6,19 @@
   e-mail   
   adress
   
-                                                                    - Experience
+                                                                - Experience
 
-                                                                      xxxxxxx  
-                                                                      yyyyyy
+                                                                  xxxxxxx  
+                                                                  yyyyyy
   
 - Education
 
   aaaaaaaaa  
   bbbbbbbb 
  
-                                                                   - Hobbies & Interests
+                                                                 - Hobbies & Interests
 
-                                                                     eeeeeeee  
-                                                                     ffffff
+                                                                   eeeeeeee  
+                                                                   ffffff
  
  
