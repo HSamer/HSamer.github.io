@@ -22,4 +22,4 @@
                                                                    ffffff
  
  
-<image> image001.pjg
+images/image001.pjg
