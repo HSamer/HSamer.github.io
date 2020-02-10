@@ -12,8 +12,8 @@
 
  
 # _Ausbildung_
-   * Handelsakademie:  HAK Grazbachgasse
-   * Bachelar-Studium:  Medienmanangement - FH St. Pölten
-   * Masterstudium:  Journalismus _ FH WIen
+  * Handelsakademie:  HAK Grazbachgasse
+  * Bachelar-Studium:  Medienmanangement - FH St. Pölten
+  * Masterstudium:  Journalismus _ FH WIen
 
  
