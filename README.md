@@ -14,7 +14,4 @@
                                                   * Bachelar-Studium:  Medienmanangement - FH St. Pölten
                                                   * Masterstudium:  Journalismus _ FH WIen
 
-
- 
- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
