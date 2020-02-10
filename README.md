@@ -5,10 +5,10 @@
 # **Birgit Samer**
 
 # _Stammdaten_
-* Adresse: 
-  * Augasse 1o, 1090 Wien
-  * telefon: 0664 1386710
-  * e-mail:  birgit.samer-ged@aon.at
+1. Adresse: 
+  1 Augasse 1o, 1090 Wien
+  1 telefon: 0664 1386710
+  1 e-mail:  birgit.samer-ged@aon.at
 
  
 # _Ausbildung_
