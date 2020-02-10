@@ -11,7 +11,7 @@
   * e-mail:  birgit.samer-ged@aon.at
 
  
-                        # _Ausbildung_
+                        * _Ausbildung_
                            * Handelsakademie:  HAK Grazbachgasse
                            * Bachelar-Studium:  Medienmanangement - FH St. Pölten
                            * Masterstudium:  Journalismus _ FH WIen
