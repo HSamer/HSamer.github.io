@@ -2,7 +2,7 @@
 ![Foto](https://pbs.twimg.com/profile_images/799380255391830016/CzNtL_bs_400x400.jpg)
 
 
-                                                                               # **Birgit Samer**
+# **Birgit Samer**
 
 # _Stammdaten_
 * Adresse: 
