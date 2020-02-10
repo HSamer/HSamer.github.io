@@ -21,5 +21,5 @@
                                                                    eeeeeeee  
                                                                    ffffff
  
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
-images/image001.pjg
